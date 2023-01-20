@@ -1,0 +1,18 @@
+Folder PATH listing for volume OS
+Volume serial number is 3291-12A5
+C:.
+|   DATABASE  with python3.pptx
+|   Drop.py
+|   Presentation_46.mp4
+|   Project
+|   README.md
+|   SQL_Drop.db
+|   Structure.txt
+|   
+\---.idea
+    |   modules.xml
+    |   Project_Drop.iml
+    |   
+    \---inspectionProfiles
+            profiles_settings.xml
+            
